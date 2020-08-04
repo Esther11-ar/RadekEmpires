@@ -1,0 +1,22 @@
+.carousel-item{
+
+    height: 300px;
+}
+
+.sidebar-title{
+    margin-top: 20px;
+}
+
+.img3{
+    height: 100px;
+    margin-top: 50px;
+}
+
+.footer{
+    background-color: black;
+    height: 100px;
+}
+.footer-p{
+    color: white;
+    padding-top:20px ;
+}

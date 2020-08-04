@@ -1,0 +1,163 @@
+.carousel-item{
+
+    height: 300px;
+}
+
+.sidebar-title{
+    margin-top: 20px;
+}
+
+.img3{
+    height: 100px;
+    margin-top: 50px;
+}
+
+.footer{
+    background-color: black;
+    height: 100px;
+}
+.footer-p{
+    color: white;
+    padding-top:20px ;
+}
+
+body, html{
+    height:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../img/pic4.jpg');
+
+}
+
+.container-bg{
+    /* height: 400px;
+    width: 400px; */
+    background-color: white;
+    margin-top: 50px;
+    max-width: 400px;
+    max-height: 400px;
+    
+}
+#sign-title{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+#img-container{
+
+    text-align: center;
+}
+
+#login-logo{
+    height: 40px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: auto;
+}
+
+.col-auto{
+    width: -webkit-fill-available !important;
+
+}
+
+#sign-btn{
+    width: 100%;
+    margin-top: 20px;
+}
+
+#sign-row{
+    /* width: 100%; */
+    margin: 0px;
+    flex-wrap: nowrap;
+}
+.sign-div{
+    width: 50%;
+}
+    
+ #sign-up-text-container{
+     text-align: center;
+     align-content: center;
+ }
+
+ #register-account{
+     text-align: center;
+ }
+
+ #recover-logo{
+    height: 40px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+ }
+
+ #sign-up-logo{
+    height: 40px;
+    width: autos;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+ 
+ }
+
+
+.recover-img{
+    height:40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../img/pic3.jpg');
+}
+#sign-up-logo{
+    padding-left: 150px;
+}
+
+
+#recover-logo{
+    padding-left: 200px;
+}
+
+#recover-title{
+    text-align: center;
+    font-weight: bold;
+
+
+}
+
+#sign-up-title{
+    text-align: center;
+    font-weight: bold;
+
+}
+#login-account{
+    text-align: center;
+    align-content: center;
+    width: 100%;
+}
+
+.recover-sign-in-div{
+    width: 100% !important;
+}
+.sign-up-body, html{
+    height:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../img/pic6.jpg');
+
+}
+
+.recover-body, html{
+    height:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../img/pic7.jpg');
+
+}
+
+
